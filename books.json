@@ -1,12 +1,1 @@
-[
-  {"author": "Marcus Aurelius", "title": "Meditations", "amazon_url": ""},
-  {"author": "Lao Tzu", "title": "Tao Te Ching", "amazon_url": ""},
-  {"author": "Richard Bach", "title": "Illusions", "amazon_url": ""},
-  {"author": "Confucius", "title": "The Analects", "amazon_url": ""},
-  {"author": "Kahlil Gibran", "title": "The Prophet", "amazon_url": ""},
-  {"author": "Napoleon Hill", "title": "Think and Grow Rich", "amazon_url": ""},
-  {"author": "Sun Tzu", "title": "The Art of War", "amazon_url": ""},
-  {"author": "Gautama Buddha", "title": "Dhammapada", "amazon_url": ""},
-  {"author": "Seneca", "title": "Letters to Lucilius", "amazon_url": ""},
-  {"author": "Epictetus", "title": "Enchiridion", "amazon_url": ""}
-]
+{"name":"quoteplace-books","description":"Books by QuotePlace authors, extracted from Open Library on 2026-10-30.","books":4272,"authors":929,"files":["books-data/part-01.json","books-data/part-02.json","books-data/part-03.json","books-data/part-04.json","books-data/part-05.json","books-data/part-06.json","books-data/part-07.json"],"schema":{"author":"site author name","title":"book title","year":"first publish year (for classics, the earliest edition/translation year)","editions":"edition count on Open Library","cover_id":"Open Library cover id; cover URL is https://covers.openlibrary.org/b/id/<cover_id>-L.jpg (empty means no cover)","ol":"Open Library path; full URL is https://openlibrary.org followed by this path","amazon_url":"Amazon affiliate link, empty until filled"},"updated":"2026-10-30"}
